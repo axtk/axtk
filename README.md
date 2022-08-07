@@ -1,3 +1,5 @@
+Language: TypeScript
+
 ## Minimalist toolset for a React app
 
 **[react-live-store](https://www.npmjs.com/package/react-live-store)**<br>
