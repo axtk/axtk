@@ -1,5 +1,3 @@
-Language: TypeScript
-
 ## Minimalist toolset for a React app
 
 **[react-live-store](https://www.npmjs.com/package/react-live-store)**<br>
@@ -12,6 +10,8 @@ a React hook for tracking the state of an async action or a polling
 a lightweight React router
 
 ## Utilities
+
+<sup>Language: TypeScript</sup>
 
 **[skdl](https://www.npmjs.com/package/skdl)**<br>
 scheduling repeated actions and creating pollings
