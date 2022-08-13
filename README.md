@@ -18,3 +18,8 @@ scheduling repeated actions and creating pollings
 
 **[evtm](https://www.npmjs.com/package/evtm)**<br>
 an event manager with flexible event type pattern matching
+
+## Language
+
+**[A living hint to palatalization in medieval Latin](https://github.com/axtk/w/wiki/A-living-hint-to-palatalization-in-medieval-Latin)**<br>
+a hypothesis on the *cantare*&ndash;*chanter* phonetical change inspired by modern dialects
