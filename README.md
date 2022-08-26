@@ -21,7 +21,7 @@ an event manager with flexible event type pattern matching
 
 ## Language
 
-**[A living hint to palatalization in medieval Latin](https://github.com/axtk/w/blob/main/palatalization.md)**<br>
+**[From *cantare* to *chanter*](https://github.com/axtk/w/blob/main/palatalization.md)**<br>
 a hypothesis on the *cantare*&ndash;*chanter* phonetical change inspired by the modern dialects
 
 **[*Venedica*, nový translit](https://github.com/axtk/w/blob/main/translit.md)**<br>
