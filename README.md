@@ -1,7 +1,7 @@
 ## Minimalist toolset for a React app
 
 **[react-progressive-callback](https://github.com/axtk/react-progressive-callback)**<br>
-to track data fetches
+to track the state of data fetches
 
 **[react-live-store](https://github.com/axtk/react-live-store)**<br>
 to share data across components
