@@ -1,22 +1,22 @@
 ## Minimalist toolset for a React app
 
-**[react-progressive-callback](https://www.npmjs.com/package/react-progressive-callback)**<br>
-to track data fetches and pollings
+**[react-progressive-callback](https://github.com/axtk/react-progressive-callback)**<br>
+to track data fetches
 
-**[react-live-store](https://www.npmjs.com/package/react-live-store)**<br>
+**[react-live-store](https://github.com/axtk/react-live-store)**<br>
 to share data across components
 
-**[postrouter](https://www.npmjs.com/package/postrouter)**<br>
+**[postrouter](https://github.com/axtk/postrouter)**<br>
 to split an app into pages
 
 ## Utilities
 
 <sup>Language: TypeScript</sup>
 
-**[skdl](https://www.npmjs.com/package/skdl)**<br>
+**[skdl](https://github.com/axtk/skdl)**<br>
 scheduling repeated actions and creating pollings
 
-**[evtm](https://www.npmjs.com/package/evtm)**<br>
+**[evtm](https://github.com/axtk/evtm)**<br>
 an event manager with flexible event type pattern matching
 
 ## Language
