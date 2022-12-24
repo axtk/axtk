@@ -1,6 +1,6 @@
 ## Minimalist toolset for a React app
 
-**[idst](https://github.com/axtk/idst)**<br>
+**[idstm](https://github.com/axtk/idstm)**<br>
 to share data across components
 
 **[react-progressive-callback](https://github.com/axtk/react-progressive-callback)**<br>
