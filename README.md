@@ -1,10 +1,10 @@
 ## Minimalist utilities for a React app
 
 **[idstm](https://github.com/axtk/idstm)**<br>
-to share data across components
+a store for straightforward shared state management
 
 **[postrouter](https://github.com/axtk/postrouter)**<br>
-to split an app into pages
+a router for location-based conditional rendering
 
 ## Language
 
