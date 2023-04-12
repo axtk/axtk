@@ -14,6 +14,6 @@ a hypothesis on the *cantare*&ndash;*chanter* phonetical change inspired by the 
 **[*Venedica*, nový translit](https://github.com/axtk/w/blob/main/translit.md)**<br>
 a project of a consistent transliteration system of the Cyrillic script
 
-## Apps
+## Mini apps
 
 [Night sky map](https://axtk.ru/apps/night)&nbsp; |&nbsp; [Daylight](https://axtk.ru/apps/daylight)&nbsp; |&nbsp; [Spectra](https://axtk.ru/apps/spectra)
