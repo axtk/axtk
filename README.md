@@ -16,4 +16,4 @@ a project of a consistent transliteration system of the Cyrillic script
 
 ## Mini apps
 
-[Night sky map](https://axtk.ru/apps/night)&nbsp; |&nbsp; [Daylight](https://axtk.ru/apps/daylight)&nbsp; |&nbsp; [Spectra](https://axtk.ru/apps/spectra)
+[Sky map](https://axtk.ru/apps/stars)&nbsp; |&nbsp; [Daytime](https://axtk.ru/apps/daytime)&nbsp; |&nbsp; [Spectra](https://axtk.ru/apps/spectra)
