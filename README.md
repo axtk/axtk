@@ -1,19 +1,20 @@
-## Minimalist utilities for a React app
+**react**<br>
+[store](https://github.com/axtk/idstm)&nbsp; •&nbsp;
+[router](https://github.com/axtk/postrouter)
 
-**[idstm](https://github.com/axtk/idstm)**<br>
-a store for straightforward shared state management
+**typescript**<br>
+[event manager](https://github.com/axtk/evtm)&nbsp; •&nbsp;
+[pollings](https://github.com/axtk/skdl)&nbsp; •&nbsp;
+[locale-agnostic date formatting](https://github.com/axtk/dtfm)&nbsp; •&nbsp;
+[typing web APIs](https://github.com/axtk/reqsrv)
 
-**[postrouter](https://github.com/axtk/postrouter)**<br>
-a router for location-based conditional rendering
+**dev**<br>
+[code style](https://github.com/axtk/codeshape)
 
-## Language
+**language**<br>
+[*cantare*&ndash;*chanter*](https://github.com/axtk/w/blob/main/palatalization.md)&nbsp; •&nbsp;
+[pan-Slavic translit](https://github.com/axtk/w/blob/main/translit.md)
 
-**[From *cantare* to *chanter*](https://github.com/axtk/w/blob/main/palatalization.md)**<br>
-a hypothesis on the *cantare*&ndash;*chanter* phonetical change inspired by the modern dialects
-
-**[*Venedica*, nový translit](https://github.com/axtk/w/blob/main/translit.md)**<br>
-a project of a consistent transliteration system of the Cyrillic script
-
-## Mini apps
-
-[Sky map](https://axtk.ru/apps/stars)&nbsp; |&nbsp; [Daytime](https://axtk.ru/apps/daytime)&nbsp; |&nbsp; [Spectra](https://axtk.ru/apps/spectra)
+**mini apps**<br>
+[sky map](https://axtk.ru/apps/stars)&nbsp; •&nbsp;
+[daytime](https://axtk.ru/apps/daytime)
