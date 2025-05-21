@@ -1,4 +1,4 @@
-Devising simpler tools for common web dev tasks and telling their backstories:
+My stories on the tools I build to streamline common web dev tasks:
 
 - [A React router to my liking](https://dev.to/axtk/a-react-router-to-my-liking-1ko5)
 - [My way to a beautifully minimal shared state setup in React](https://dev.to/axtk/my-way-to-a-beautifully-minimal-shared-state-setup-in-react-52ld)
