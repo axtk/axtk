@@ -1,4 +1,4 @@
-My projects aiming to streamline common web dev tasks:
+My projects aiming to streamline common React dev tasks:
 
 - [routescape.js.org](https://routescape.js.org)
 - [groundstate.js.org](https://groundstate.js.org)
