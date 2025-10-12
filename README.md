@@ -1,1 +1,1 @@
-<img src="https://github.com/t8js/t8js.github.io/blob/main/assets/t8_bar.png?raw=true" height="8"> [t8.js.org](https://t8.js.org), my experiments on streamlining common web dev tasks, such as routing and state management.
+<img src="https://github.com/t8js/t8js.github.io/blob/main/assets/t8_bar.png?raw=true" width="18"> [t8.js.org](https://t8.js.org), my experiments on streamlining common web dev tasks, such as routing and state management.
