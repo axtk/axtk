@@ -1,2 +1,3 @@
-&mdash; [t8.js.org](https://t8.js.org), my experiments on streamlining common web dev tasks, such as routing and state management<br>
-&mdash; [axtk.github.io](https://axtk.github.io), my other projects
+Experimenting with approaches to streamline common web dev tasks of state management and routing:<br>
+&mdash; [`sidestate`](https://github.com/axtk/sidestate), in vanilla TS/JS<br>
+&mdash; [`react-sidestate`](https://github.com/axtk/react-sidestate), in React
