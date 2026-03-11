@@ -1,6 +1,6 @@
 Experimenting with streamlining the approaches to the common web dev tasks such as state management and routing:<br>
-&mdash; [sidestate](https://github.com/axtk/sidestate), with vanilla TypeScript/JavaScript<br>
-&mdash; [react-sidestate](https://github.com/axtk/react-sidestate), with React
+&mdash; [stateshape](https://github.com/axtk/stateshape), with vanilla TypeScript/JavaScript<br>
+&mdash; [react-stateshape](https://github.com/axtk/react-stateshape), with React
 
 ---
 
