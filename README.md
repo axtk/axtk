@@ -1,6 +1,6 @@
 Experimenting with streamlining the approaches to the common web dev tasks such as state management and routing:<br>
-&mdash; [stateshape](https://github.com/axtk/stateshape), with vanilla TypeScript/JavaScript<br>
-&mdash; [react-stateshape](https://github.com/axtk/react-stateshape), with React
+&mdash; [bridgestate](https://github.com/axtk/bridgestate), with vanilla TypeScript/JavaScript<br>
+&mdash; [react-bridgestate](https://github.com/axtk/react-bridgestate), with React
 
 ---
 
