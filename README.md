@@ -7,24 +7,24 @@ Experimenting with streamlining the approaches to the common web dev tasks of st
 <kbd>
   <a href="https://axtk.me/skymap" title="Night sky map, dark mode" target="_blank">
     <picture>
-      <source srcset="https://axtk.me/--/main/screenshots/skymap.en.dark.png" media="(prefers-color-scheme: dark)">
-      <img src="https://axtk.me/--/main/screenshots/skymap.en.png" alt="Night sky map, dark mode" width="214" height="120" loading="lazy">
+      <source srcset="https://axtk.me/screenshots/skymap.en.dark.png" media="(prefers-color-scheme: dark)">
+      <img src="https://axtk.me/screenshots/skymap.en.png" alt="Night sky map, dark mode" width="214" height="120" loading="lazy">
     </picture>
   </a>
 </kbd>
 <kbd>
   <a href="https://axtk.me/daylight" title="Real-time positions of the Sun and the Moon" target="_blank">
     <picture>
-      <source srcset="https://axtk.me/--/main/screenshots/daylight.en.dark.png" media="(prefers-color-scheme: dark)">
-      <img src="https://axtk.me/--/main/screenshots/daylight.en.png" alt="Real-time positions of the Sun and the Moon" width="214" height="120" loading="lazy">
+      <source srcset="https://axtk.me/screenshots/daylight.en.dark.png" media="(prefers-color-scheme: dark)">
+      <img src="https://axtk.me/screenshots/daylight.en.png" alt="Real-time positions of the Sun and the Moon" width="214" height="120" loading="lazy">
     </picture>
   </a>
 </kbd>
 <kbd>
   <a href="https://axtk.me/spectra" title="FTIR spectrum analysis utility" target="_blank">
     <picture>
-      <source srcset="https://axtk.me/--/main/screenshots/spectra.en.dark.png" media="(prefers-color-scheme: dark)">
-      <img src="https://axtk.me/--/main/screenshots/spectra.en.png" alt="FTIR spectrum analysis utility" width="214" height="120" loading="lazy">
+      <source srcset="https://axtk.me/screenshots/spectra.en.dark.png" media="(prefers-color-scheme: dark)">
+      <img src="https://axtk.me/screenshots/spectra.en.png" alt="FTIR spectrum analysis utility" width="214" height="120" loading="lazy">
     </picture>
   </a>
 </kbd>
